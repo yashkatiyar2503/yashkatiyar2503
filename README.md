@@ -17,7 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm YASH KATIYAR
 </h1>
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashkatiyar2503&theme=dark&background=000000)](https://git.io/streak-stats)
