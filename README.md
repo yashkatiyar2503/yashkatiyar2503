@@ -15,8 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkatiyar2503&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/yashkatiyar2503/yashkatiyar2503/blob/output/github-contribution-grid-snake.gif)
-
 ## <b> Let's Connect..!
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yash-katiyar-4a222a21a/">
